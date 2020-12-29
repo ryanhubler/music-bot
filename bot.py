@@ -34,6 +34,6 @@ async def play(ctx, *, mess): #play is the argument used after the user types th
 @bot.command()
 async def leave(ctx):
     await ctx.voice_client.disconnect()
+'''
 bot.run(token)
 
-'''
