@@ -7,7 +7,7 @@ Music bot is a discord bot written in python3.
 Clone the music-bot repository 
 
 ```bash
-https://github.com/ryanhubler/music-bot.git
+git clone https://github.com/ryanhubler/music-bot.git
 ```
 Discord.py
 ```bash
