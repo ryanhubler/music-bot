@@ -32,7 +32,7 @@ bot = commands.Bot(command_prefix='/') #Change prefix used to call bot in discor
 ``` 
 1. To use the bot in discord you must create a bot in the discord developer portal and add its token to this line
 ```python
-token = ''   #your token goes here
+token = 'TOKENGOESHERE'   #your token goes here
 ``` 
 2. Once your bot is in discord run bot.py
 3. Then in discord play a song by being in a voice channel and typing ```/play``` <songname> in a text channel
