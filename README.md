@@ -28,7 +28,7 @@ sudo apt install ffmpeg
 ## Usage
 The bot uses / to be called in Discord, however it can be changed easily in this line
 ```python
-bot = commands.Bot(command_prefix='/') #Change prefix used to call bot in discord 
+bot = commands.Bot(command_prefix='!') #Change prefix used to call bot in discord 
 ``` 
 1. To use the bot in discord you must create a bot in the discord developer portal and add its token to this line
 ```python
