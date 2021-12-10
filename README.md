@@ -26,7 +26,7 @@ FFMPEG
 sudo apt install ffmpeg
 ```
 ## Usage
-The bot uses / to be called in Discord, however it can be changed easily in this line
+The bot uses ! to be called in Discord, however it can be changed easily in this line
 ```python
 bot = commands.Bot(command_prefix='!') #Change prefix used to call bot in discord 
 ``` 
